@@ -1,1 +1,1 @@
-# project-qai
+projek untuk latihan GitHub dan eksperimen AI
